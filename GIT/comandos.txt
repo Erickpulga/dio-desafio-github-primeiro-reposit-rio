@@ -1,0 +1,36 @@
+cmd - abrir prompt
+
+dir (lista diretorios da pasta)
+
+cd / (entra diretorio C)
+
+cd .. (volta pra pasta anterior)
+
+cls (limpa tela)
+
+tab complementa ...ex cd W (complementa windows)
+
+mkdir nomedapasta (cria pasta)
+
+echo hello > nomearquivo.algo hello.txt (cria arquivo)
+
+del +nome pasta (deleta tudo dentro da pasta, mas não a pasta)
+
+seta pra cima busca ultimos comandos
+
+rmdir +nome da pasta /S /Q ?? (deleta pasta completa)
+
+git add * (passar para stage)
+
+git commit  -m "mensagem"
+
+git status   (ver status)
+
+mandar para git hub
+
+git push origin master
+
+*origin = nome criado anteriormente
+
+git clone + link da pasta que vc quer
+
